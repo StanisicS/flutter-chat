@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "92461505918",
+    "firebase_url": "https://flash-chat-78576.firebaseio.com",
+    "project_id": "flash-chat-78576",
+    "storage_bucket": "flash-chat-78576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92461505918:android:aa5bddd60c4650094f272f",
+        "android_client_info": {
+          "package_name": "rs.evansit.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92461505918-o2d0hadvg02qabldt5uofm3g81hrjoan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxk1KE_U0jhqA23m_uDWdaT0F8ZI01IY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92461505918-o2d0hadvg02qabldt5uofm3g81hrjoan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
