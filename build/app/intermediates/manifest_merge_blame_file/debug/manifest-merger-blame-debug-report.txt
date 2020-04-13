@@ -38,7 +38,7 @@
 27        android:name="io.flutter.app.FlutterApplication"
 27-->C:\GitHub\_flutter\flutter-bootcamp\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:10:9-57
 28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-28-->[androidx.core:core:1.0.0] C:\Users\steva\.gradle\caches\transforms-2\files-2.1\10ae0346493e57bd5c834c5376242eb1\core-1.0.0\AndroidManifest.xml:22:18-86
+28-->[androidx.core:core:1.1.0] C:\Users\steva\.gradle\caches\transforms-2\files-2.1\331630a23dfa1f0594bcf54d5352aa36\core-1.1.0\AndroidManifest.xml:24:18-86
 29        android:debuggable="true"
 30        android:icon="@mipmap/ic_launcher"
 30-->C:\GitHub\_flutter\flutter-bootcamp\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:12:9-43
